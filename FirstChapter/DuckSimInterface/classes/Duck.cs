@@ -6,8 +6,8 @@ namespace DuckSimulator.Classes
     public abstract class Duck
     {
 
-        public IFlyable FlyBehavior { get; private set; }
-        public IQuackable QuackBehavior { get; private set; }
+        public IFlyable FlyBehavior { get; protected set; }
+        public IQuackable QuackBehavior { get; protected set; }
 
         public Duck (IFlyable flyBehavior, IQuackable quackBehavior)
         {

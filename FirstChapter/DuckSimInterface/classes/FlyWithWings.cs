@@ -1,4 +1,6 @@
-namespace DuckSimulator.Interfaces
+using DuckSimulator.Interfaces;
+
+namespace DuckSimulator.Classes
 {
     public class FlyWithWings() : IFlyable
     {

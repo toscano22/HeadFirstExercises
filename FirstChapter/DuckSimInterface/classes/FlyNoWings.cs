@@ -1,11 +1,12 @@
+using DuckSimulator.Interfaces;
 
-namespace DuckSimulator.Interfaces
+namespace DuckSimulator.Classes
 {
     public class FlyNoWings() : IFlyable
     {
         public void Fly()
         {
-            //Nothing Happens
+            Console.WriteLine("I can't fly");
         }
     }
 }

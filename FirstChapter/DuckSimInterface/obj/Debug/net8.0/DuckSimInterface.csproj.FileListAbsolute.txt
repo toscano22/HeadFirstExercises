@@ -12,3 +12,4 @@ c:\Users\fmartns\Documents\Coding\HeadFirstExercises\FirstChapter\DuckSimInterfa
 c:\Users\fmartns\Documents\Coding\HeadFirstExercises\FirstChapter\DuckSimInterface\obj\Debug\net8.0\DuckSimInterface.pdb
 c:\Users\fmartns\Documents\Coding\HeadFirstExercises\FirstChapter\DuckSimInterface\obj\Debug\net8.0\DuckSimInterface.genruntimeconfig.cache
 c:\Users\fmartns\Documents\Coding\HeadFirstExercises\FirstChapter\DuckSimInterface\obj\Debug\net8.0\ref\DuckSimInterface.dll
+c:\Users\fmartns\Documents\Coding\HeadFirstExercises\FirstChapter\DuckSimInterface\obj\Debug\net8.0\DuckSimInterface.sourcelink.json
