@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\fmartns\\Documents\\Coding\\HeadFirstExercises\\FirstChapter\\DuckSimInterface\\DuckSimInterface.csproj": {}
+    "C:\\Users\\fmartns\\Documents\\Coding\\HeadFirstExercises\\FirstChapter - StrategyPattern\\DuckSimInterface\\DuckSimInterface.csproj": {}
   },
   "projects": {
-    "c:\\Users\\fmartns\\Documents\\Coding\\HeadFirstExercises\\FirstChapter\\DuckSimInterface\\DuckSimInterface.csproj": {
+    "C:\\Users\\fmartns\\Documents\\Coding\\HeadFirstExercises\\FirstChapter - StrategyPattern\\DuckSimInterface\\DuckSimInterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\fmartns\\Documents\\Coding\\HeadFirstExercises\\FirstChapter\\DuckSimInterface\\DuckSimInterface.csproj",
+        "projectUniqueName": "C:\\Users\\fmartns\\Documents\\Coding\\HeadFirstExercises\\FirstChapter - StrategyPattern\\DuckSimInterface\\DuckSimInterface.csproj",
         "projectName": "DuckSimInterface",
-        "projectPath": "c:\\Users\\fmartns\\Documents\\Coding\\HeadFirstExercises\\FirstChapter\\DuckSimInterface\\DuckSimInterface.csproj",
+        "projectPath": "C:\\Users\\fmartns\\Documents\\Coding\\HeadFirstExercises\\FirstChapter - StrategyPattern\\DuckSimInterface\\DuckSimInterface.csproj",
         "packagesPath": "C:\\Users\\fmartns\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\fmartns\\Documents\\Coding\\HeadFirstExercises\\FirstChapter\\DuckSimInterface\\obj\\",
+        "outputPath": "C:\\Users\\fmartns\\Documents\\Coding\\HeadFirstExercises\\FirstChapter - StrategyPattern\\DuckSimInterface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fmartns\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -21,6 +21,12 @@ public class MiniDuckSimulator
         modelDuck.PerformFly();
 
 
+        // Test3
+        DuckCallDevice duckCall = new DuckCallDevice();
+        Console.WriteLine("I am a duck call and I can quack");
+        duckCall.PerformQuack();
+
+
 
     }
 }

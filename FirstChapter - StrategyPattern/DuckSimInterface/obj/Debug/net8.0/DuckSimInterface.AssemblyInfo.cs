@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DuckSimInterface")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba042cd758f9e14478efe5baee14392943ec0a98")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bf0c9b5e5c59b970d37bd39d0794b0af0381612")]
 [assembly: System.Reflection.AssemblyProductAttribute("DuckSimInterface")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DuckSimInterface")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

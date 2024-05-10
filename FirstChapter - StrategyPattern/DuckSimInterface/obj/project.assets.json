@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fmartns\\Documents\\Coding\\HeadFirstExercises\\FirstChapter\\DuckSimInterface\\DuckSimInterface.csproj",
+      "projectUniqueName": "C:\\Users\\fmartns\\Documents\\Coding\\HeadFirstExercises\\FirstChapter - StrategyPattern\\DuckSimInterface\\DuckSimInterface.csproj",
       "projectName": "DuckSimInterface",
-      "projectPath": "C:\\Users\\fmartns\\Documents\\Coding\\HeadFirstExercises\\FirstChapter\\DuckSimInterface\\DuckSimInterface.csproj",
+      "projectPath": "C:\\Users\\fmartns\\Documents\\Coding\\HeadFirstExercises\\FirstChapter - StrategyPattern\\DuckSimInterface\\DuckSimInterface.csproj",
       "packagesPath": "C:\\Users\\fmartns\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fmartns\\Documents\\Coding\\HeadFirstExercises\\FirstChapter\\DuckSimInterface\\obj\\",
+      "outputPath": "C:\\Users\\fmartns\\Documents\\Coding\\HeadFirstExercises\\FirstChapter - StrategyPattern\\DuckSimInterface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fmartns\\AppData\\Roaming\\NuGet\\NuGet.Config"
