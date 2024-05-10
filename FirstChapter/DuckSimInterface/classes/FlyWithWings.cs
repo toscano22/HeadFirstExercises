@@ -1,7 +1,10 @@
-public class FlyWithWings() : IFlyable
+namespace DuckSimulator.Interfaces
 {
-    public void Fly()
+    public class FlyWithWings() : IFlyable
     {
-        Console.WriteLine("I've spread my wings to fly");
+        public void Fly()
+        {
+            Console.WriteLine("I've spread my wings to fly");
+        }
     }
 }

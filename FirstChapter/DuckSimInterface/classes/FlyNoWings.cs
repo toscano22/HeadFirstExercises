@@ -1,7 +1,11 @@
-public class FlyNoWings() : IFlyable
+
+namespace DuckSimulator.Interfaces
 {
-    public void Fly()
+    public class FlyNoWings() : IFlyable
     {
-       //Nothing Happens
+        public void Fly()
+        {
+            //Nothing Happens
+        }
     }
 }

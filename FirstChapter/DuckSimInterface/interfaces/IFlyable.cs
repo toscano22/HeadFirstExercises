@@ -1,8 +1,8 @@
 
-
-public interface IFlyable
+namespace DuckSimulator.Interfaces
 {
-    void Fly();
-
-
+    public interface IFlyable
+    {
+        void Fly();
+    }
 }

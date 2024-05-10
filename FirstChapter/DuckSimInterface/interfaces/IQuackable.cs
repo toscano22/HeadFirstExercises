@@ -1,7 +1,8 @@
 
-public interface IQuackable
+namespace DuckSimulator.Interfaces
 {
-    void Quack();
-
-
+    public interface IQuackable
+    {
+        void Quack();
+    }
 }
