@@ -1,0 +1,14 @@
+c:\Users\fmartns\Documents\Coding\HeadFirstExercises\FirstChapter\DuckSimInterface\bin\Debug\net8.0\DuckSimInterface.exe
+c:\Users\fmartns\Documents\Coding\HeadFirstExercises\FirstChapter\DuckSimInterface\bin\Debug\net8.0\DuckSimInterface.deps.json
+c:\Users\fmartns\Documents\Coding\HeadFirstExercises\FirstChapter\DuckSimInterface\bin\Debug\net8.0\DuckSimInterface.runtimeconfig.json
+c:\Users\fmartns\Documents\Coding\HeadFirstExercises\FirstChapter\DuckSimInterface\bin\Debug\net8.0\DuckSimInterface.dll
+c:\Users\fmartns\Documents\Coding\HeadFirstExercises\FirstChapter\DuckSimInterface\bin\Debug\net8.0\DuckSimInterface.pdb
+c:\Users\fmartns\Documents\Coding\HeadFirstExercises\FirstChapter\DuckSimInterface\obj\Debug\net8.0\DuckSimInterface.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\fmartns\Documents\Coding\HeadFirstExercises\FirstChapter\DuckSimInterface\obj\Debug\net8.0\DuckSimInterface.AssemblyInfoInputs.cache
+c:\Users\fmartns\Documents\Coding\HeadFirstExercises\FirstChapter\DuckSimInterface\obj\Debug\net8.0\DuckSimInterface.AssemblyInfo.cs
+c:\Users\fmartns\Documents\Coding\HeadFirstExercises\FirstChapter\DuckSimInterface\obj\Debug\net8.0\DuckSimInterface.csproj.CoreCompileInputs.cache
+c:\Users\fmartns\Documents\Coding\HeadFirstExercises\FirstChapter\DuckSimInterface\obj\Debug\net8.0\DuckSimInterface.dll
+c:\Users\fmartns\Documents\Coding\HeadFirstExercises\FirstChapter\DuckSimInterface\obj\Debug\net8.0\refint\DuckSimInterface.dll
+c:\Users\fmartns\Documents\Coding\HeadFirstExercises\FirstChapter\DuckSimInterface\obj\Debug\net8.0\DuckSimInterface.pdb
+c:\Users\fmartns\Documents\Coding\HeadFirstExercises\FirstChapter\DuckSimInterface\obj\Debug\net8.0\DuckSimInterface.genruntimeconfig.cache
+c:\Users\fmartns\Documents\Coding\HeadFirstExercises\FirstChapter\DuckSimInterface\obj\Debug\net8.0\ref\DuckSimInterface.dll
